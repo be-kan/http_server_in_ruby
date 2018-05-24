@@ -1,0 +1,3 @@
+[submodule "sample_blog"]
+	path = sample_blog
+	url = https://github.com/jeffkreeftmeijer/wups.git
